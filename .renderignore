@@ -1,0 +1,4 @@
+bot_data.sqlite
+bot.log
+__pycache__/
+*.py[cod]
